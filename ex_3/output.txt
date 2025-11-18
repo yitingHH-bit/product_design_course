@@ -1,1 +1,5 @@
-
+Employee salaries:
+Alice Johnson: 3500.00
+Bob Smith: 3950.00
+Charlie Brown: 1600.00
+Diana White: 1080.00
