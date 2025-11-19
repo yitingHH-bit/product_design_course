@@ -1,4 +1,3 @@
-
 package com.example.ex_1   // <-- IMPORTANT: match the folder & manifest
 
 import android.os.Bundle
