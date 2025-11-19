@@ -1,6 +1,6 @@
-In the Android view :
+ https://gist.github.com/lalithabacies/c8f973dc6754384d6cade282b64a8cb1
 
-Expand Gradle Scripts
+ for  free Api
 
 Double-click build.gradle.kts (Module: app)
 (the one that literally says “Module: app” in brackets)
